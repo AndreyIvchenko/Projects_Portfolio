@@ -3,7 +3,8 @@
     position: relative;
     background:url('../img/main_bf-fin.jpg') no-repeat 50%/cover ;
     padding-top: 205px;
-    .title {
+    &__title {
+		width: 535px;
         margin-top: 10px;
     }
 	&__subtitle {
